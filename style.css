@@ -183,7 +183,7 @@ color: #ffffff;
     flex-direction: column;
     
     align-items: center;
-    row-gap: 15px;
+    row-gap: 2vw;
 }
 
 .about .rectangle2{
@@ -263,7 +263,7 @@ color: #FFFFFF;
 .food{
     display: flex;
     align-items: center;
-    column-gap: 35px;
+    column-gap: 3vw;
     
 }
 
@@ -272,8 +272,7 @@ color: #FFFFFF;
     flex-direction: column;
     align-items: flex-start;
     
-    width: 346px;
-    height: 160px;
+    
     justify-content: flex-end;
     row-gap: 27px;
   
@@ -307,9 +306,9 @@ color: #FFFFFF;
 
 .food-cards{
     display: grid;
-    grid-template-columns: repeat(2,auto);
-    row-gap: 55px;
-    column-gap: 40px;
+    grid-template-columns: repeat(2,1fr);
+    row-gap: 5vw;
+    column-gap: 2.5vw;
     
     
 }
@@ -319,8 +318,8 @@ color: #FFFFFF;
 }
 .find-sec{
     display: grid;
-    grid-template-columns: repeat(2,auto);
-    width: 1315px;
+    grid-template-columns: repeat(2,1fr);
+    width: 100%;
     margin-top: 57px;
 
 }
