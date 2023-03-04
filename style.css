@@ -264,7 +264,7 @@ color: #FFFFFF;
 
 .food{
     display: flex;
-    flex-wrap: wrap;
+    
     align-items: center;
     column-gap: 3vw;
     
