@@ -174,7 +174,7 @@ color: #ffffff;
 }
 
 .about{
-    background-color:  #1E1E1E;
+    background-color:  black;
     color: white;
     padding: 70px 50px;
 }
@@ -396,7 +396,7 @@ color: #FFFFFF;
 }
 
 .footer{
-    background-color:  #1E1E1E;
+    background-color:  black;
     display: flex;
     align-items: center;
     justify-content: space-between;
