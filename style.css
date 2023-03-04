@@ -199,7 +199,7 @@ background: #B62828;
 
 .text-img{
     display: flex;
-    flex-flow: row wrap;
+    flex-wrap: wrap;
     justify-content: space-evenly;
     align-items: center;
 
