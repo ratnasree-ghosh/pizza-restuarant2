@@ -5,6 +5,9 @@
     
 }
 
+body{
+ overflow-x: hidden;   
+}
 
 
 .nav-container{
