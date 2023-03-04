@@ -15,8 +15,8 @@ body{
     display: flex;
     justify-content: space-between;
     align-items: center;
-    padding: 25px 0;
-    width: 100%;
+    padding: 2avw 0;
+    
     
     color: #FFFFFF;
     background-color: #000000;
@@ -30,7 +30,7 @@ body{
 }
 
 .company > h2{
-    font-size: 25px;
+    font-size: 2vw;
     font-style: normal;
     font-weight: 700;
     letter-spacing: 0.06em;
@@ -41,14 +41,14 @@ body{
     display: flex;
     
     list-style-type: none;
-    
+    flex-flow: row wrap;
     
     justify-content: space-between;
 }
 
 .lists li{
     padding: 0 3vh;
-    font-size: 18px;
+    font-size: 1.3vw;
     
    
     
@@ -65,7 +65,7 @@ body{
     display: flex;
     justify-content: space-between;
     align-items: center;
-    gap: 50px;
+    gap: 5vw;
     margin-right: 60px;
     
     
