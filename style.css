@@ -25,7 +25,7 @@
 }
 
 .company > h2{
-    font-size: 29px;
+    font-size: 243px;
     font-style: normal;
     font-weight: 700;
     letter-spacing: 0.06em;
@@ -43,7 +43,7 @@
 
 .lists li{
     padding: 0 3vh;
-    font-size: 24px;
+    font-size: 18px;
     
    
     
@@ -68,7 +68,7 @@
 
 .social-icons a{
     
-    font-size: 1.5rem;
+    font-size: 1rem;
     color: #FFFFFF;
 }
 
