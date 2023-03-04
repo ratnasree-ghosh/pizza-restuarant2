@@ -102,15 +102,15 @@ z-index: 1;
     position: absolute;
     width: 60vw;
     
-    left: 2.5vw;
+    left: 2.8vw;
     top: 7vw;
     
     font-family: 'Quattrocento';
     font-style: normal;
     font-weight: 700;
-    font-size: 87px;
-    line-height: 100px;
-    /* or 107% */
+    font-size: 7vw;
+    
+   
     
     text-align: center;
     letter-spacing: 0.09em;
@@ -145,8 +145,8 @@ position: absolute;
 
 position: absolute;
 width: 45vw;
-height: 13px;
-left: 176px;
+height: 0.8vw;
+left: 12vw;
 top: 25vw;
 
 background: #fd2c2c;
@@ -157,7 +157,7 @@ box-shadow: 3px 6px 18px rgba(0, 0, 0, 0.25);
     position: absolute;
 width: 50vw;
 
-left: 176px;
+left: 12vw;
 top: 28vw;
 
 font-family: 'Ruda';
