@@ -311,6 +311,7 @@ color: #FFFFFF;
     row-gap: 55px;
     column-gap: 40px;
     padding: 0 150px;
+    border: 10px solid red;
 }
 
 .find-container{
