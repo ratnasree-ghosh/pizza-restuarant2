@@ -283,7 +283,7 @@ color: #FFFFFF;
    
 font-style: normal;
 font-weight: 400;
-font-size: 28px;
+font-size: 23px;
 line-height: 0px;
 
 
@@ -310,6 +310,7 @@ color: #FFFFFF;
     grid-template-columns: repeat(2,auto);
     row-gap: 55px;
     column-gap: 40px;
+    padding: 0 50px;
 }
 
 .find-container{
