@@ -5,6 +5,11 @@
     
 }
 
+body{
+ overflow-x: hidden;
+ overflow-y: hidden;
+}
+
 .nav-container{
    
     display: flex;
