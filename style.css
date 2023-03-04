@@ -310,8 +310,8 @@ color: #FFFFFF;
     grid-template-columns: repeat(2,auto);
     row-gap: 55px;
     column-gap: 40px;
-    padding: 0 150px;
-    border: 10px solid red;
+    margin: 0 1500px;
+    
 }
 
 .find-container{
