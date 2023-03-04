@@ -265,6 +265,12 @@ color: #FFFFFF;
     align-items: center;
     column-gap: 3vw;
     
+    
+}
+
+.food img{
+    height: 100px;
+    width: 100px;
 }
 
 .text{
