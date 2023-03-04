@@ -371,6 +371,7 @@ color: #FFFFFF;
 .first>p{
     width: 640px;
 height: 181px;
+    padding-right: 5vw;
 
 font-family: 'Ruda';
 font-style: normal;
