@@ -218,7 +218,8 @@ font-size: 40px;
 }
 
 .text-img p{
-    width: 420px;
+    width: 38vw;
+    text-align: justify;
 height: 250px;
 font-weight: 400;
 font-size: 16px;
