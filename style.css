@@ -200,7 +200,7 @@ background: #B62828;
 .text-img{
     display: flex;
     flex-wrap: wrap;
-    justify-content: space-evenly;
+    justify-content: space-around;
     align-items: center;
 
     
